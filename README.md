@@ -6,7 +6,7 @@ Estarei documentando aqui o decorrer do meu estudo, os códigos estarão comenta
 
 O repositório está organizado por pastas de acordo com conteúdo e o título dos arquivos é referente aos exemplos sobre o mesmo.
 
-##### Básico
+##### [Básico](https://github.com/lanzath/php-studies/tree/master/Basics)
 - [x] Hello World;
 - [x] Variáveis;
 - [x] Tipos de variáveis;

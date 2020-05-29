@@ -18,7 +18,7 @@
  */
 
 /**
- * Exemples
+ * Examples
  */
 $arr1 = ['php', 'javascript', 'python'];
 $arr2 = [

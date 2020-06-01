@@ -13,8 +13,8 @@ O repositório está organizado por pastas de acordo com conteúdo e o título d
 - [x] Escopo das variáveis;
 - [x] Constantes;
 - [x] Arrays;
+- [x] Condicionais;
 - [ ] Funções;
-- [ ] Condicionais;
 - [ ] Operadores;
 - [ ] Loops;
 - [ ] Super globais;

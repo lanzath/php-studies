@@ -14,7 +14,7 @@ O repositório está organizado por pastas de acordo com conteúdo e o título d
 - [x] Constantes;
 - [x] Arrays;
 - [x] Condicionais;
-- [ ] Funções;
+- [x] Funções;
 - [ ] Operadores;
 - [ ] Loops;
 - [ ] Super globais;

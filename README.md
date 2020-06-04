@@ -18,9 +18,7 @@ O repositório está organizado por pastas de acordo com conteúdo e o título d
 - [x] Operadores;
 - [x] Loops;
 - [x] Super globais;
-- [ ] Formulários;
-- [ ] Validações;
-- [ ] Sessões
+- [x] Formulários;
  
  Conforme forme avançarei com o curso manterei o repositório sempre atualizado :)
  Espero que seja de boa utilidade para quem está iniciando em PHP também!

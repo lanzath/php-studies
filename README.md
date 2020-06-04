@@ -17,7 +17,7 @@ O repositório está organizado por pastas de acordo com conteúdo e o título d
 - [x] Funções;
 - [x] Operadores;
 - [x] Loops;
-- [ ] Super globais;
+- [x] Super globais;
 - [ ] Formulários;
 - [ ] Validações;
 - [ ] Sessões
